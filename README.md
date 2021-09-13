@@ -1,16 +1,16 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview 
-The purpose of the new analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program, and prepare Bobbyís manager for the ìsilver tsunamiî as many current employees reach retirement age.
+The purpose of the new analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program, and prepare Bobby‚Äôs manager for the ‚Äúsilver tsunami‚Äù as many current employees reach retirement age.
 
-##Results
+## Results
 The analysis yeilded the following insights:
 * There are 90,398 employees expected to retire.
 * There are 1,549 employees eligible for the mentorship program.
 * Therefore, there is 1 employee eligible for the mentorship program for every 58 employees retiring.
 * The majority of employees retiring hold senior positions.
 
-##Summary
+## Summary
 The table below shows the number of positions by title that will need to be filled as the "silver tsunami" begins to make an impact.
  
 
