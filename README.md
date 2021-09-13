@@ -12,6 +12,7 @@ The analysis yeilded the following insights:
 
 ## Summary
 The table below shows the number of positions by title that will need to be filled as the "silver tsunami" begins to make an impact.
+
 ![Silver Tsunami](Silver Tsumani.png)
 
 There are
