@@ -15,8 +15,7 @@ The table below shows the number of positions by title that will need to be fill
 
 ![Silver Tsunami](https://github.com/nishavenkatesh11/Pewlett-Hackard-Analysis/blob/main/Silver%20Tsumani.png)
 
-There are
-not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
 
 ### Additional query recommendations 
 These two queries may provide more insight into the upcoming "silver tsunami":
